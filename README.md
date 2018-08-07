@@ -1,1 +1,4 @@
-# special_effect_by_css
+# Special Effect By Css
+
+Just hover the images or cards to see the effects.
+It is completely made by pure CSS.
